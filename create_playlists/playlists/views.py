@@ -1,3 +1,14 @@
-from django.shortcuts import render
+def hip_hop(request):
+    return None
 
-# Create your views here.
+
+def rock(request):
+    return None
+
+
+def edm(request):
+    return None
+
+
+def pop(request):
+    return None
