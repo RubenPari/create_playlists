@@ -1,7 +1,3 @@
-def hip_hop(request):
-    return None
-
-
 def rock(request):
     return None
 
@@ -11,4 +7,8 @@ def edm(request):
 
 
 def pop(request):
+    return None
+
+
+def hip_pop():
     return None
