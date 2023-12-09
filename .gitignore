@@ -82,6 +82,7 @@ ipython_config.py
 
 # Environment variables
 .env
+./.venv
 
 # mkdocs documentation
 /site
